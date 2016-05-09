@@ -1,13 +1,21 @@
 {
   "name": "MyGo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning from https://leanpub.com/reactspeedcoding/read",
   "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshinn/ReactSpeedCoding.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eshinn/ReactSpeedCoding/issues"
+  },
+  "homepage": "https://github.com/eshinn/ReactSpeedCoding#readme"
 }
